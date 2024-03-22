@@ -8,7 +8,7 @@
    * 📦 Sandbox bypass(Api Hammering) ⚒️
    * 🚫 Anti Analysis Functions
    * 😈 Compile Time API Hashing with HashStringJenkins algorithm
-✦•······················•✦•······················•✦ 
+---
 
 ### 📁 Generate the payload with the c2 of your choice(*.bin)
 ### 🥷 If you want debug output, uncomment all printf lines
