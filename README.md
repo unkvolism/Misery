@@ -1,4 +1,4 @@
-# Misery (🪙 Evade Av Like Taxes)
+# Misery (Evade Av Like Taxes)
 ## Misery Loader to bypass modern EDR solutions 🖥️ 🛠️
 ![miserybanner](https://i.imgur.com/yCk788y.jpeg)
 
