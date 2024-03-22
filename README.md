@@ -2,6 +2,17 @@
 ## Misery Loader to bypass modern EDR solutions 🖥️ 🛠️
 ![miserybanner](https://i.imgur.com/yCk788y.jpeg)
 
+<br>
+
+<p>
+    <img src="https://img.shields.io/github/license/hackforyourentertainment/Misery?color=green&logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/hackforyourentertainment/Misery?color=green&logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/hackforyourentertainment/Misery?color=green&logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/github/forks/hackforyourentertainment/Misery?color=green&logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/github/v/release/hackforyourentertainment/Misery?color=green&logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/code-size/hackforyourentertainment/Misery?color=green&logo=github&style=for-the-badge">
+</p>
+
 ## Misery is a code injector with some features
    * 🪝 Unhook NTDLL from suspended process
    * 💉 Early Bird Injection
