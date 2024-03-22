@@ -5,7 +5,7 @@
 ## Misery is a code injector with some features
    * 🪝 Unhook NTDLL from suspended process
    * 💉 Early Bird Injection
-   * 📦 Sandbox bypass(Api Hammering) ⚒️
+   * 📦 Sandbox bypass (Api Hammering) ⚒️
    * 🚫 Anti Analysis Functions
    * 😈 Compile Time API Hashing with HashStringJenkins algorithm
 ---
