@@ -14,7 +14,7 @@
 ### 🥷 If you want debug output, uncomment all printf lines
 ---
 ## 🆘 Usage
-### ⚔️ Misery.exe --shelcode <URL>
+### ⚔️ Misery.exe --shelcode <<URL>>
 
 
 
