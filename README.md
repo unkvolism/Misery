@@ -13,8 +13,8 @@
 ### 📁 Generate the payload with the c2 of your choice(*.bin)
 ### 🥷 If you want debug output, uncomment all printf lines
 ---
-## Usage
-### Misery.exe --shelcode <URL>
+## 🆘 Usage
+### ⚔️ Misery.exe --shelcode <URL>
 
 
 
