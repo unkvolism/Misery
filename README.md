@@ -7,6 +7,7 @@
    * 💉 Early Bird Injection
    * 📦 Sandbox bypass (Api Hammering) ⚒️
    * 🚫 Anti Analysis Functions
+   * 👽 Mutex Payload Control
    * 😈 Compile Time API Hashing with HashStringJenkins algorithm
    * ❤️ Developed by sorahed with lots of love
 ---
